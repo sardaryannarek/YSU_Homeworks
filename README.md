@@ -35,5 +35,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 [MIT License](LICENSE)
 
 ---
-
-Feel free to customize the README further according to your specific project details and requirements!
